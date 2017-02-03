@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/DataContext.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MainWindowController.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ContactModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/GenericCallback.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ActionToolbar.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CommonHeaders.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MainWindow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SqlDal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ActionToolbar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BaseController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SqlCommands.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MainWindowController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BaseController.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SqlDal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DataContext.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/x86_64-linux-gnu/dbus-1.0/include" />
+          <root url="file:///usr/lib/x86_64-linux-gnu/glib-2.0/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/x86_64-linux-gnu/dbus-1.0/include" />
+          <root url="file:///usr/lib/x86_64-linux-gnu/glib-2.0/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
